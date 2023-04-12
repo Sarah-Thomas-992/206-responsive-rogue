@@ -6,7 +6,7 @@ html{
 
 body {
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
-	font-size: 0.9rem;
+	font-size: 0.9em;
 	color: #000000;
 }
 
@@ -28,20 +28,20 @@ h4 {
 }
 
 h1 {
-	font-size: 1.875rem;
+	font-size: 1.875em;
 	text-align: center;
 }
 
 h2 {
-	font-size: 1.5rem;
+	font-size: 1.5em;
 }
 
 h3 {
-	font-size: 1.25rem;
+	font-size: 1.25em;
 }
 
 h4 {
-	font-size: 0.75rem;
+	font-size: 0.75em;
 }
 
 p {
@@ -76,7 +76,7 @@ header nav ul {
 }
 
 header nav ul li {
-	font-size: 0.875rem;
+	font-size: 0.875em;
 	font-weight: 700;
 	text-transform: uppercase;
 	padding: 10px 0;
@@ -147,7 +147,7 @@ header nav ul li a {
 
 .menu-list li {
 	color: #45610E;
-	font-size: 1rem;
+	font-size: 1em;
 	line-height: 36px;
 }
 
@@ -164,5 +164,17 @@ footer span {
 	font-family: 'Galada', cursive;
 	text-transform: lowercase;
 	color: #45610E;
-	font-size: 0.875rem;
+	font-size: 0.875em;
+}
+
+@media all and (min-width: 768px) {
+/* tablet styles*/
+
+
+}
+
+@media all and (min-width: 1200px) {
+	/* desktop styles*/
+	
+	
 }
