@@ -121,21 +121,19 @@ header nav ul li a {
 .section-two,
 .section-three {
 	box-sizing: border-box;
+	border-bottom: 5px solid #EEE;
 }
 
 .section-one {
 	width: 100%;
-	border-bottom: 5px solid #EEE;
 }
 
 .section-two {
 	width: 100%;
-	border-bottom: 5px solid #EEE;
 }
 
 .section-three {
 	width: 100%;
-	border-bottom: 5px solid #EEE;
 }
 
 .bottom-section h3 {
